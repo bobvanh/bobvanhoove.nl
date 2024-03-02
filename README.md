@@ -28,12 +28,14 @@ __Dev env / deployment__:
 
 ## Resources
 
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-https://www.sitepoint.com/node-js-docker/
-https://monovm.com/dashboard/order/vps/linux-vps
-https://www.smashingmagazine.com/2018/10/flexbox-use-cases/
-https://code.visualstudio.com/docs/devcontainers/tutorial
-https://www.11ty.dev/
-https://learneleventyfromscratch.com/
-https://code.visualstudio.com/docs/nodejs/browser-debugging
-https://github.com/11ty/eleventy/issues/331
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/  
+https://www.sitepoint.com/node-js-docker/  
+https://monovm.com/dashboard/order/vps/linux-vps  
+https://www.smashingmagazine.com/2018/10/flexbox-use-cases/  
+https://code.visualstudio.com/docs/devcontainers/tutorial  
+https://www.11ty.dev/  
+https://learneleventyfromscratch.com/  
+https://code.visualstudio.com/docs/nodejs/browser-debugging  
+https://github.com/11ty/eleventy/issues/331  
+https://stackoverflow.com/questions/53380075/  
+[how-to-attach-the-vscode-debugger-to-the-brave-browser](https://stackoverflow.com/questions/53380075/how-to-attach-the-vscode-debugger-to-the-brave-browser)  
