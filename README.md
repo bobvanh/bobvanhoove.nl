@@ -33,3 +33,7 @@ https://www.sitepoint.com/node-js-docker/
 https://monovm.com/dashboard/order/vps/linux-vps
 https://www.smashingmagazine.com/2018/10/flexbox-use-cases/
 https://code.visualstudio.com/docs/devcontainers/tutorial
+https://www.11ty.dev/
+https://learneleventyfromscratch.com/
+https://code.visualstudio.com/docs/nodejs/browser-debugging
+https://github.com/11ty/eleventy/issues/331
