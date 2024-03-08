@@ -39,3 +39,6 @@ https://code.visualstudio.com/docs/nodejs/browser-debugging
 https://github.com/11ty/eleventy/issues/331  
 https://stackoverflow.com/questions/53380075/  
 [how-to-attach-the-vscode-debugger-to-the-brave-browser](https://stackoverflow.com/questions/53380075/how-to-attach-the-vscode-debugger-to-the-brave-browser)  
+https://mxb.dev/blog/eleventy-asset-pipeline/  
+https://dev.to/brewhousedigital/using-purgecss-with-bootstrap-and-eleventy-j7p  
+
