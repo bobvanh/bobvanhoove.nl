@@ -1,6 +1,7 @@
 module.exports = config => {
     config.addPassthroughCopy('./src/images/');
     config.addWatchTarget('./src/css/');
+
     return {
         templateFormats: ["md", "njk", "html", "11ty.js"],
         markdownTemplateEngine: 'njk',

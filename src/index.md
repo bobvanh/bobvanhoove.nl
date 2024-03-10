@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-layout: 'layouts/home.html'
+layout: 'layouts/article.html'
 ---
 
 bobvanhoove.nl WiP :)

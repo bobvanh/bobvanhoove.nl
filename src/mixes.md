@@ -1,6 +1,6 @@
 ---
 title: Mixes
-layout: 'layouts/home.html'
+layout: 'layouts/article.html'
 ---
 <ul>
 {%- for mix in collections.mix | reverse -%}
