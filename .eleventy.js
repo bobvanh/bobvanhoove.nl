@@ -1,5 +1,8 @@
 module.exports = config => {
     config.addPassthroughCopy('./src/images/');
+    
+    // TODO : Avoid copying styles.11ty.js
+    config.addPassthroughCopy('./src/css/');
     config.addWatchTarget('./src/css/');
 
     return {
