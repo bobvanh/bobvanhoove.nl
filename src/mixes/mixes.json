@@ -1,0 +1,4 @@
+{
+    "layout": "layouts/mix.html",
+    "permalink": "/mixes/{{ title | slug }}/index.html"
+}
