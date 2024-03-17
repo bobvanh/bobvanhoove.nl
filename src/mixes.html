@@ -2,8 +2,20 @@
 title: Mixes
 layout: 'layouts/article.html'
 ---
-<ul>
-{%- for mix in collections.mix | reverse -%}
-    <li>{{ mix.data.title}}</li>
-{%- endfor -%}
-</ul>
+<div class="mixes">
+    <ol>
+        {%- for mix in collections.mix | reverse -%}
+        <li>
+            <section class="mix-item pure-g">
+                <div class="pure-u-1-5">
+                    <a href="{{mix.url}}"><img src="{{mix.data.mix.thumbnail}}" /></a>
+                </div>
+                <div class="pure-u-4-5">
+                    <a href="{{mix.url}}"><h2>{{ mix.data.title}}</h2></a>
+                    {{ mix.content | safe }}
+                </div>
+            </section>
+        </li>
+        {%- endfor -%}
+    </ol>
+</div>
