@@ -28,10 +28,20 @@ __Dev env / deployment__:
 
 ## Resources
 
+### CSS
+
+https://picocss.com/  
+https://picnicss.com/  
+https://purecss.io/  
+https://milligram.io/  
+
+https://www.smashingmagazine.com/2013/03/logical-breakpoints-responsive-design/  
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/  
-https://www.sitepoint.com/node-js-docker/  
-https://monovm.com/dashboard/order/vps/linux-vps  
 https://www.smashingmagazine.com/2018/10/flexbox-use-cases/  
+
+### 11ty
+
+https://www.sitepoint.com/node-js-docker/  
 https://code.visualstudio.com/docs/devcontainers/tutorial  
 https://www.11ty.dev/  
 https://learneleventyfromscratch.com/  
