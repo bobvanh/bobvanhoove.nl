@@ -1,12 +1,12 @@
 module.exports = config => {
     config.addPassthroughCopy('./src/images/');
-    
-    // TODO : Avoid copying styles.11ty.js
     config.addPassthroughCopy('./src/css/');
     config.addWatchTarget('./src/css/');
 
+    config.addPassthroughCopy({'./node_modules/picnic/picnic.min.css': 'css/picnic.min.css'});
+
     return {
-        templateFormats: ["md", "njk", "html", "11ty.js"],
+        templateFormats: ["md", "njk", "html"],
         markdownTemplateEngine: 'njk',
         dataTemplateEngine: 'njk',
         htmlTemplateEngine: 'njk',
