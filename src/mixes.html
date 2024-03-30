@@ -5,16 +5,16 @@ layout: 'layouts/article.html'
 <div class="mixes">
     <ol>
         {%- for mix in collections.mix | reverse -%}
-        <li>
-            <section class="mix-item pure-g">
-                <div class="pure-u-1-5">
+        <li class="card mix-item">
+            <a href="{{mix.url}}"><h2>{{ mix.data.title}}</h2></a>
+            <div class="content">
+                <div class="thumbnail">
                     <a href="{{mix.url}}"><img src="{{mix.data.mix.thumbnail}}" /></a>
                 </div>
-                <div class="pure-u-4-5">
-                    <a href="{{mix.url}}"><h2>{{ mix.data.title}}</h2></a>
+                <div class="description">
                     {{ mix.content | safe }}
                 </div>
-            </section>
+            </div>
         </li>
         {%- endfor -%}
     </ol>

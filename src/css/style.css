@@ -1,9 +1,47 @@
+h1 { font-size: 1.4em; padding: 0; margin-bottom: 0.6em }
+h2 { font-size: 1.3em; padding: 0; margin-bottom: 0.5em }
+h3 { font-size: 1.2em; padding: 0; margin-bottom: 0.4em }
+
+section {
+    background: #fff;
+    text-align: left;
+    width: 90%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 4em 0 0;
+}
+
 .mixes ol {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
+.mix-item h2 {
+    padding-top: 0;
+    font-family: sans-serif;
+    font-size: 1.3em;
+    color: black;
+}
+
+.mix-item h2:hover {
+    text-decoration: underline;
+}
+
+
 .mixes .mix-item {
-    padding-bottom: 1em;
+    padding: 1em;
+}
+
+.mix-item .thumbnail {
+    float: left;
+    margin-right: 1em;
+}
+
+.thumbnail img {
+    border-radius: 0.2em;
+}
+
+.mix-item .description {
+    display: block;
 }
