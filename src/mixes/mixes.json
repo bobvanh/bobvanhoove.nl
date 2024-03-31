@@ -1,4 +1,4 @@
 {
     "layout": "layouts/mix.html",
-    "permalink": "/mixes/{{ title | slug }}/index.html"
+    "permalink": "/mixes/{{ date }}-{{ title | slug }}/index.html"
 }
