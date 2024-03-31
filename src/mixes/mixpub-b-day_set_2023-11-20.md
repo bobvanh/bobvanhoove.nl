@@ -6,6 +6,7 @@ layout: 'layouts/mix.html'
 mix:
   image: '/images/mixpub-b-day_set_2023-11-20.jpg'
   thumbnail: '/images/mixpub-b-day_set_2023-11-20.thumbnail.jpg'
+  download_url: https://bobvanh.stackstorage.com/s/RCFyojWhMwVQuuPw
 ---
 
 Mixpub b-day session `:)`

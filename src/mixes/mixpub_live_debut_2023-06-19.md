@@ -6,6 +6,7 @@ layout: 'layouts/mix.html'
 mix:
   image: '/images/mixpub_live_debut_2023-06-19.jpg'
   thumbnail: '/images/mixpub_live_debut_2023-06-19.thumbnail.jpg'
+  download_url: https://bobvanh.stackstorage.com/s/nRqdXiUDdEhQldy8
 ---
 
 Starts with some electro and acid and builds up to some intense techno.

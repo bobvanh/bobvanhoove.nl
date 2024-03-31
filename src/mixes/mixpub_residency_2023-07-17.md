@@ -6,6 +6,7 @@ layout: 'layouts/mix.html'
 mix:
   image: '/images/mixpub_residency.jpg'
   thumbnail: '/images/mixpub_residency.thumbnail.jpg'
+  download_url: https://bobvanh.stackstorage.com/s/uvpV7rRMYBOz6eao
 ---
 
 Starting off with some electro, moving into deeper grooves and a jump into faster territory for the last hour with some techno and acid vibes.

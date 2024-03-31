@@ -6,14 +6,15 @@ layout: 'layouts/article.html'
     <ol>
         {%- for mix in collections.mix | reverse -%}
         <li class="card mix-item">
+            <div class="thumbnail">
+                <a href="{{mix.url}}"><img src="{{mix.data.mix.thumbnail}}" /></a>
+            </div>
             <a href="{{mix.url}}"><h2>{{ mix.data.title}}</h2></a>
-            <div class="content">
-                <div class="thumbnail">
-                    <a href="{{mix.url}}"><img src="{{mix.data.mix.thumbnail}}" /></a>
-                </div>
-                <div class="description">
-                    {{ mix.content | safe }}
-                </div>
+            <div class="description">
+                {{ mix.content | safe }}
+            </div>
+            <div>
+                <a href="{{mix.data.mix.download_url}}" target="_blank"><button>Download</button></a>
             </div>
         </li>
         {%- endfor -%}
