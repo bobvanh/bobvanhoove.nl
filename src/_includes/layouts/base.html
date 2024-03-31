@@ -11,11 +11,9 @@
   <body>
     {% include "partials/navigation.html" %}
     <main>
-      <div class="content">
-        <section clas="flex">
-            {% block content %}{% endblock %}
-        </section>
-      </div>
+      <section clas="flex content">
+          {% block content %}{% endblock %}
+      </section>
     </main>
   </body>
 </html>

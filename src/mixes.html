@@ -9,7 +9,10 @@ layout: 'layouts/article.html'
             <div class="thumbnail">
                 <a href="{{mix.url}}"><img src="{{mix.data.mix.thumbnail}}" /></a>
             </div>
+
             <a href="{{mix.url}}"><h2>{{ mix.data.title}}</h2></a>
+            <small class="date">{{mix.data.date}}</small>
+
             <div class="description">
                 {{ mix.content | safe }}
             </div>
