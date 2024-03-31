@@ -15,6 +15,11 @@ main {
     padding: 5em 0 0;
 }
 
+main p a {
+    color: black;
+    text-decoration: underline;
+}
+
 .mixes ol {
     list-style-type: none;
     margin: 0;
@@ -35,6 +40,10 @@ main {
 
 .mix-item .date {
     margin-bottom: 0.5em;
+}
+
+.mix-item h2 {
+    text-decoration: none;
 }
 
 .mix-item h2:hover {
