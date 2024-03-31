@@ -1,6 +1,6 @@
 ---
 date: "2023-09-09"
-title: Mindscape @ Mixpub 2023-09-09
+title: Mindscape @ Mixpub
 tags: mix
 layout: 'layouts/mix.html'
 mix:
@@ -13,4 +13,4 @@ Starting off with some light hearted grooves, slowly going deeper and darker wit
 
 This set was recorded for Mindscape @ Mixpub 2023-09-09. Thanks for tuning in <3
 
-Visit https://mixpubradio.mixlr.com/ for cool tunes and friendly people in the chat.
+[mixpubradio.mixlr.com](https://mixpubradio.mixlr.com/)
