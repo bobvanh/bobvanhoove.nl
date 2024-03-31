@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-layout: 'layouts/page.html'
+layout: 'layouts/article.html'
 ---
 
 WiP :)
