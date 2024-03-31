@@ -1,18 +1,18 @@
 {% extends "layouts/page.html" %} 
 {% block content %}
-  <article class="mix">
-    <div class="flex one two-900">
-      <div class="full half-900">
-        <h1>{{ title }}</h1>
-        <small class="date">{{date}}</small>
-        {{ content | safe }}
-        <div>
-          <a href="{{mix.data.mix.download_url}}" target="_blank"><button>Download</button></a>
-        </div>
-      </div>
-      <div class="full half-900">
-        <img src="{{mix.image}}" class="cover" alt="{{title}} : Cover art" />
+<article class="mix">
+  <div class="flex one two-900">
+    <div class="full half-900">
+      <h1>{{ title }}</h1>
+      <small class="date">{{date}}</small>
+      {{ content | safe }}
+      <div>
+        <a href="{{mix.download_url}}" target="_blank"><button>Download</button></a>
       </div>
     </div>
-  </article>
+    <div class="full half-900">
+      <img src="{{mix.image}}" class="cover" alt="{{title}} : Cover art" />
+    </div>
+  </div>
+</article>
 {% endblock %}
