@@ -1,6 +1,6 @@
 ---
 date: "2023-11-20"
-title: Mixpub B-day set 2023-11-20
+title: Mixpub B-day set
 tags: mix
 layout: 'layouts/mix.html'
 mix:
@@ -11,6 +11,8 @@ mix:
 
 Mixpub b-day session `:)`
 
-I invited Maximus for the occasion to cover the first half of the session. Blinding tunes, check it out here: https://mixpubradio.mixlr.com/recordings/2295303
+I invited Maximus for the occasion to cover the first half of the session. Blinding tunes, check it out here: [Maximus - Guest Mix at Bob's B-day](https://mixpubradio.mixlr.com/recordings/2295303)
 
 This is the recording of the 2nd half by yours truly.
+
+[mixpubradio.mixlr.com](https://mixpubradio.mixlr.com/)

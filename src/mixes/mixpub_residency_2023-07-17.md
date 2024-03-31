@@ -1,6 +1,6 @@
 ---
 date: "2023-07-17"
-title: Mixpub Residency 2023-07-17
+title: Mixpub Residency 2023-07
 tags: mix
 layout: 'layouts/mix.html'
 mix:
@@ -13,5 +13,4 @@ Starting off with some electro, moving into deeper grooves and a jump into faste
 
 To play a long form set and keep it consistent and engaging is the ultimate skill to master. Some cool parts in here and also room for improvement. Grateful for the support and opportunity to learn.
 
-https://mixpubradio.mixlr.com/  
-https://www.mixcloud.com/MixpubUndergroundRadio/  
+[mixpubradio.mixlr.com](https://mixpubradio.mixlr.com/)

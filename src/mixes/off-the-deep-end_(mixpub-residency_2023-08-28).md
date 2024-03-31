@@ -1,6 +1,6 @@
 ---
 date: "2023-08-28"
-title: Off the deep end - Mixpub Residency 2023-08-28
+title: Off the deep end - Mixpub Residency
 tags: mix
 layout: 'layouts/mix.html'
 mix:
@@ -13,4 +13,4 @@ Trying something different this time, a 3 chapter approach: weird and funky at 1
 
 Thanks for tuning in <3
 
-Visit https://mixpubradio.mixlr.com/ for cool tunes and friendly people in the chat.
+[mixpubradio.mixlr.com](https://mixpubradio.mixlr.com/)

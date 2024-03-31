@@ -1,6 +1,6 @@
 ---
 date: "2023-03-15"
-title: Mixpub Ignition 2023-03-15
+title: Mixpub Ignition
 tags: mix
 layout: 'layouts/mix.html'
 mix:
@@ -11,4 +11,4 @@ mix:
 
 Guest mix for the Ignition show over at Mixpub radio.
 
-Visit [mixpub](https://mixpubradio.mixlr.com/) for cool tunes and good company.
+[mixpubradio.mixlr.com](https://mixpubradio.mixlr.com/)

@@ -1,6 +1,6 @@
 ---
 date: "2023-07-11"
-title: Sudden siren - Mixpub live 2023-07-11
+title: Sudden siren - Mixpub live
 tags: mix
 layout: 'layouts/mix.html'
 mix:
@@ -11,4 +11,4 @@ mix:
 
 Opted to go a bit more 4 to the floor for this mix.
 
-Visit https://mixpubradio.mixlr.com/ for cool tunes and friendly people in the chat `:)`
+[mixpubradio.mixlr.com](https://mixpubradio.mixlr.com/)

@@ -1,6 +1,6 @@
 ---
 date: "2023-08-16"
-title: Warmup-da-pub (Mixpub Ignition 2023-08-16)
+title: Warmup-da-pub (Mixpub Ignition)
 tags: mix
 layout: 'layouts/mix.html'
 mix:
@@ -11,4 +11,4 @@ mix:
 
 Experimental intro, some acid, electro and freaky house to end with. This was a warmup set for Mixpub Ignition 2023-08-16. 
 
-Visit https://mixpubradio.mixlr.com/ for cool tunes and friendly people in the chat :)
+[mixpubradio.mixlr.com](https://mixpubradio.mixlr.com/)
