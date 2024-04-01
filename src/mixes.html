@@ -16,9 +16,6 @@ layout: 'layouts/article.html'
             <div class="description">
                 {{ mix.content | safe }}
             </div>
-            <div>
-                <a href="{{mix.data.mix.download_url}}" target="_blank"><button>Download</button></a>
-            </div>
         </li>
         {%- endfor -%}
     </ol>
