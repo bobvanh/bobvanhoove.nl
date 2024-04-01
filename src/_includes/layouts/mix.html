@@ -6,6 +6,15 @@
       <h1>{{ title }}</h1>
       <small class="date">{{date}}</small>
       {{ content | safe }}
+      {%- if mix.related_links.length %}
+      <p>
+        <ul>
+          {%- for link in mix.related_links -%}
+          <li><a href="https://{{link}}">{{ link }}</a></li>
+          {%- endfor -%}
+        </ul>
+      </p>
+      {%- endif -%}
       <p>
         <a href="{{mix.download_url}}" target="_blank"><button>Download</button></a>
       </p>

@@ -7,8 +7,8 @@ mix:
   image: '/images/mixpub_residency.jpg'
   thumbnail: '/images/mixpub_residency.thumbnail.jpg'
   download_url: https://bobvanh.stackstorage.com/s/9YVCkFjBiBA2D9MS
+  related_links:
+  - "mixpubradio.mixlr.com"
 ---
 
 Monthly residency for October 2023 @ Mixpub
-
-[mixpubradio.mixlr.com](https://mixpubradio.mixlr.com/)

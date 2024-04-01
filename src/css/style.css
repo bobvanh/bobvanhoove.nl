@@ -13,7 +13,7 @@ main {
     width: 90%;
     max-width: 960px;
     margin: 0 auto;
-    padding: 4em 0 0;
+    padding: 4em 0 1em 0;
     line-height: 1.6em;
 }
 
@@ -21,11 +21,13 @@ main p {
     max-width: 42em;
 }
 
-main p a {
+main p a ,
+main li a{
     color: #111;
     text-decoration: underline;
 }
 
+.mix ul,
 .mixes ol {
     list-style-type: none;
     margin: 0;
