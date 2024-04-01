@@ -1,6 +1,5 @@
 h1 { font-size: 1.4em; padding: 0; margin-bottom: 0.6em }
 h2 { font-size: 1.3em; padding: 0; margin-bottom: 0.5em }
-h3 { font-size: 1.2em; padding: 0; margin-bottom: 0.4em }
 
 body { font-family: Verdana, Geneva, Tahoma, sans-serif; }
 
@@ -41,14 +40,11 @@ main p a {
     padding-top: 0;
     color: #111;
     margin-bottom: 0;
+    text-decoration: none;
 }
 
 .mix-item .date {
     margin-bottom: 0.5em;
-}
-
-.mix-item h2 {
-    text-decoration: none;
 }
 
 .mix-item h2:hover {
