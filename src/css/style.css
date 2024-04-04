@@ -21,8 +21,8 @@ main p {
     max-width: 42em;
 }
 
-main p a ,
-main li a{
+main p a,
+.mix li a {
     color: #111;
     text-decoration: underline;
 }
