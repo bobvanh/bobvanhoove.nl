@@ -4,27 +4,10 @@ Personal website. WiP
 
 ## ToDo
 
-__Site creation__:  
-- Make a static version
-  - Collect mix links and images
-  - Try some layouts, minimal framework:
-		- https://purecss.io/ 
-		- https://picnicss.com/
-		- https://picocss.com/
-- Play around with Eleventy
-	- Ideally execute the build from the container
-- Content
-	- Short intro
-	- Link to github
-	- Make music section for mixes
-
-__Dev env / deployment__:
-- Log in with SSH
-	- Figure out server
-	- Check php version
-- Setup SFTP
-- Make a docker container with same php and server
-- Try and get node working in docker without installing it on main pc
+- Link to github
+- More nerdy stuff
+- select just the required picnic modules (sass)
+- minify css
 
 ## Resources
 
