@@ -29,6 +29,7 @@ main p a,
 
 .highlight a {
     color: #0074d9;
+    font-weight: bold;
 }
 
 .mix ul,
