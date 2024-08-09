@@ -5,7 +5,7 @@ tags: mix
 layout: 'layouts/mix.html'
 mix:
   thumbnail: '/images/mindscape-2024-08-03-flyer.thumbnail.jpg'
-  download_url: https://bobvanh.stackstorage.com/s/zFKXRyvRefmDH3hX
+  download_url: https://bobvanh.stackstorage.com/s/Va40H0Yzb0UaOP4m
   related_links:
     - "mixpubradio.mixlr.com"
 ---
