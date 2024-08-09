@@ -4,6 +4,7 @@ title: Mindscape - when it dawns on ya
 tags: mix
 layout: 'layouts/mix.html'
 mix:
+  image: '/images/mindscape-2024-08-03-flyer.jpg'
   thumbnail: '/images/mindscape-2024-08-03-flyer.thumbnail.jpg'
   download_url: https://bobvanh.stackstorage.com/s/Va40H0Yzb0UaOP4m
   related_links:
